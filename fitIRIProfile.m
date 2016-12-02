@@ -27,7 +27,7 @@ myFontName = 'new century schoolbook';
 myFontSize = 14;
 myMarkerSize = 6;
 %gpath = [root_dir '/rilma/work/programs/matlab/cornell/eas5840/project/'];
-gpath = [root_dir '/rilma/temp/'];
+gpath = [root_dir '/rilma/tmp/results/IRIBottom/'];
         
 setvalues = struct('GPath', gpath, 'FactNm', fact_NmF2B, ...
     'FontName', myFontName, 'FontSize', myFontSize, ...
